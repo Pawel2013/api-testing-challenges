@@ -5,6 +5,12 @@
       "title": "The FIRST blog post",
       "body": "This is my first blog post",
       "profileId": 1
+    },
+    {
+      "id": 2,
+      "title": "The FIRST blog post",
+      "body": "This is my first blog post",
+      "profileId": 1
     }
   ],
   "comments": [
